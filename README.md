@@ -1,6 +1,6 @@
 ![Logo](Photo.png)
 
-*🚀 Personal Portfolio
+## 🚀 Personal Portfolio
 
 A modern and responsive portfolio website built using **React**, **TailwindCSS**, and **Framer Motion**.
 ---
